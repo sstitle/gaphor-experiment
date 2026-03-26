@@ -4,7 +4,7 @@ A Nix-based development environment with nickel and mask.
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=1 -->
 
-- [gaphor-experiment](#project-name)
+- [gaphor-experiment](#gaphor-experiment)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Quick Start](#quick-start)
