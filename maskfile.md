@@ -15,6 +15,6 @@ echo "Hello World!"
 > Generate the HelloWorld UML diagram as an SVG and open it in a window
 
 ```bash
-DYLD_LIBRARY_PATH=/usr/local/lib uv run python hello_world.py
+python hello_world.py
 open out/hello_world.svg
 ```

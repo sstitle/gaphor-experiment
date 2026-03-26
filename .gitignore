@@ -2,3 +2,4 @@ result*
 .direnv/
 scratchpad.md
 out/
+.venv/
